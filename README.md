@@ -74,11 +74,13 @@ Esses resultados demonstram a eficiência da Programação Dinâmica na tomada d
 ## 👥 Equipe e Créditos
 **Trabalho:** DYNAMIC PROGRAMMING - Sprint 4  
 **Integrantes:**  
+
 -Lucca Borges RM554608
+
 -Ruan Vieira RM557599
+
 -Rodrigo Carnevale RM558148
 
-*(Preencha conforme a equipe)*
 
 ---
 
