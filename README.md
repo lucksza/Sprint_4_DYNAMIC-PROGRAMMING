@@ -81,7 +81,6 @@ Esses resultados demonstram a eficiência da Programação Dinâmica na tomada d
 
 -Rodrigo Carnevale RM558148
 
-*(Preencha conforme a equipe)*
 
 ---
 
