@@ -71,7 +71,7 @@ Esses resultados demonstram a eficiência da Programação Dinâmica na tomada d
 
 ---
 
-## 👥 Equipe e Créditos
+## 👥 Equipe
 **Trabalho:** DYNAMIC PROGRAMMING - Sprint 4  
 **Integrantes:**  
 
